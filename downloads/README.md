@@ -1,6 +1,2 @@
-# 📦 فایل‌ها
-
-- [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
-
----
-*[avasam.ir](https://avasam.ir)*
+## empty
+for start go Action tab and use left side workflows
